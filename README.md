@@ -1,6 +1,7 @@
 # A Vertical Search Engine for Airplane Crashes 
 Instruction to build a vertical search engine
 
+![alt text](static/img/search.png)
 
 
 ## step 1: create a virtual environment
